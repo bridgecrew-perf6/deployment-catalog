@@ -7,8 +7,8 @@ replicaCount: 2
 image:
   repository: eazytraining/catalog
   pullPolicy: IfNotPresent
-  # Overrides the image tag: 43
-  tag: 43
+  # Overrides the image tag: 48
+  tag: 48
 
 imagePullSecrets: []
 nameOverride: ""
